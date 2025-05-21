@@ -1,0 +1,17 @@
+body {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    font-family: 'Comfortaa', cursive;
+}
+.API {
+    width:200px;
+    height:200px;
+    border-radius:10px;
+    border:2px solid black;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-right:50px;
+}
